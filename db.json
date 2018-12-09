@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": "101",
+      "name": "Prithwi Raj Banerjee",
+      "gender": "male",
+      "contactprefrences": "phone",
+      "phonenumber": "8340203933",
+      "dateofbirth": "10/06/1993",
+      "email": "prethwiraj06@gmail.com",
+      "imagePath": "assets/Images/img1.jpg",
+      "department": "3",
+      "isactive": "true"
+    },
+    {
+      "id": "102",
+      "name": "Shiv Shankar Prasad",
+      "gender": "male",
+      "contactprefrences": "phone",
+      "phonenumber": "8340203933",
+      "dateofbirth": "10/06/1993",
+      "email": "shiv@gmail.com",
+      "imagePath": "assets/Images/img2.JPG",
+      "department": "2",
+      "isactive": "true"
+    },
+    {
+      "id": "103",
+      "name": "Rahul Dev Sharma",
+      "gender": "male",
+      "contactprefrences": "phone",
+      "phonenumber": "8340203933",
+      "dateofbirth": "06/10/1993",
+      "email": "rahul@gmail.com",
+      "imagePath": "assets/Images/img3.jpg",
+      "department": "1",
+      "isactive": "true"
+    }
+  ]
+}

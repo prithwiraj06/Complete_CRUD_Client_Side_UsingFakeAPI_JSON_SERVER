@@ -1,0 +1,16 @@
+.img-size{
+    width: 224px;
+    height: 265px;
+    border: 1px solid black;
+    padding: 5px;
+}
+.vertical-align{
+    display: flex;
+   align-items: center;
+}
+.btn{
+    width: 70px;
+}
+.cursorPointer{
+    cursor: pointer;
+}
